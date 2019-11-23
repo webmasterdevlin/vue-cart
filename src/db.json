@@ -1,0 +1,17 @@
+[
+  {
+    "plan": 1,
+    "price": 13,
+    "numberOfLicenses": 1
+  },
+  {
+    "plan": 2,
+    "price": 22,
+    "numberOfLicenses": 1
+  },
+  {
+    "plan": 3,
+    "price": 34,
+    "numberOfLicenses": 1
+  }
+]
